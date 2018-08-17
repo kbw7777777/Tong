@@ -1,0 +1,19 @@
+{
+  "name": "tong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbw7777777/Tong.git"
+  },
+  "author": "daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbw7777777/Tong/issues"
+  },
+  "homepage": "https://github.com/kbw7777777/Tong#readme"
+}
